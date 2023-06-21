@@ -15,6 +15,7 @@
     {
       "Id": 2,
       "Nome": "Ringo",
+      "Imagem": "/codigo/img/black-german-shepherd-2978323_960_720.jpg",
       "Raça": "Vira-lata",
       "Cor": "Amarelo",
       "Perdido": "Local",
@@ -26,6 +27,7 @@
     {
       "Id": 3,
       "Nome": "Smoke",
+      "Imagem": "/codigo/img/Cachorro_caramelo.jpg",
       "Raça": "Vira-lata",
       "Cor": "Amarelo",
       "Perdido": "Local",
@@ -37,6 +39,7 @@
     {
       "Id": 4,
       "Nome": "Jack",
+      "Imagem": "/codigo/img/gato-e-carnivoro2.jpg",
       "Raça": "Vira-lata",
       "Cor": "Amarelo",
       "Perdido": "Local",
@@ -48,6 +51,7 @@
     {
       "Id": 5,
       "Nome": "Molotov",
+      "Imagem": "/codigo/img/golden-retriever-4803454_1280.jpg",
       "Raça": "Vira-lata",
       "Cor": "Amarelo",
       "Perdido": "Local",
