@@ -1,0 +1,60 @@
+{
+  "Animal": [
+    {
+      "Id": 1,
+      "Nome": "Flash",
+      "Imagem": "/codigo/img/04-09_gato_SITE.webp",
+      "Raça": "Vira-lata",
+      "Cor": "Amarelo",
+      "Perdido": "Local",
+      "Encontrado": "Não",
+      "Tamanho": "Sim",
+      "Descricao": "arroz",
+      "Telefone": "(12)3456789"
+    },
+    {
+      "Id": 2,
+      "Nome": "Ringo",
+      "Raça": "Vira-lata",
+      "Cor": "Amarelo",
+      "Perdido": "Local",
+      "Encontrado": "Não",
+      "Tamanho": "Sim",
+      "Descricao": "",
+      "Telefone": "123456789"
+    },
+    {
+      "Id": 3,
+      "Nome": "Smoke",
+      "Raça": "Vira-lata",
+      "Cor": "Amarelo",
+      "Perdido": "Local",
+      "Encontrado": "Não",
+      "Tamanho": "Sim",
+      "Descricao": "",
+      "Telefone": "123456789"
+    },
+    {
+      "Id": 4,
+      "Nome": "Jack",
+      "Raça": "Vira-lata",
+      "Cor": "Amarelo",
+      "Perdido": "Local",
+      "Encontrado": "Não",
+      "Tamanho": "Sim",
+      "Descricao": "",
+      "Telefone": "123456789"
+    },
+    {
+      "Id": 5,
+      "Nome": "Molotov",
+      "Raça": "Vira-lata",
+      "Cor": "Amarelo",
+      "Perdido": "Local",
+      "Encontrado": "Não",
+      "Tamanho": "Sim",
+      "Descricao": "",
+      "Telefone": "123456789"
+    }
+  ]
+}
